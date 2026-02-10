@@ -27,3 +27,4 @@ Media Queries were used to ensure that the UI/UX design elements of the website 
 * **HTML5** - Structure and content organization
 * **CSS3** - Styling and visual design
 * **JavaScript** - Interactive audio playback and user interactions
+* **Banjo Server** - Website was uploaded into the banjo.rit web server
