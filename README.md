@@ -1,5 +1,5 @@
 # ISTE 140 PROJECT 2 TEAM 3: GUIDE TO THE GAURDIANS OF THE GALAXY
-Active Link: https://people.rit.edu/aj9637/Project1_AmalJunaid_Team_%233/
+
 
 Fan website celebrating the Gaurdian's of the Galaxy franchise through character profiles, movie summaries and highlights, quotes and interactive exploration of the world of the films.
 
