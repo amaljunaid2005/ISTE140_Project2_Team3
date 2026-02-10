@@ -22,6 +22,6 @@ A song from each of the movies is displayed and can be played or paused as the w
 Media Queries were used to ensure that the UI/UX design elements of the website are functional and aesthetically coherent on mobile, tablet and desktop.
 
 ## Technologies Used
-* **HTML** - Structure and content organization
-* **CSS** - Styling and visual design
+* **HTML5** - Structure and content organization
+* **CSS3** - Styling and visual design
 * **JavaScript** - Interactive audio playback and user interactions
